@@ -1,3 +1,11 @@
+## Github
+[![trophy](https://github-profile-trophy.vercel.app/?username=maykonmeneghel&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B))](https://github.com/ryo-ma/github-profile-trophy)
+
+## StackOverflow
+<i>249k reached</i>
+
+<a href="https://stackexchange.com/users/15984366"><img src="https://stackexchange.com/users/flair/15984366.png" width="208" height="58" alt="profile for Maykon Meneghel on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Maykon Meneghel on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ### Hi there 👋
 
 <!--
