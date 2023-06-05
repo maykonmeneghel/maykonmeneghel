@@ -4,7 +4,7 @@
 ## StackOverflow
 <i>249k reached</i>
 
-<a href="https://stackexchange.com/users/15984366"><img src="https://stackexchange.com/users/flair/15984366.png" width="208" height="58" alt="profile for Maykon Meneghel on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Maykon Meneghel on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/12460626/maykon-meneghel"><img src="https://stackoverflow.com/users/flair/12460626.png?theme=dark" width="208" height="58" alt="profile for Maykon Meneghel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Maykon Meneghel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Hi there 👋
 
