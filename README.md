@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Portfolio-2024_compressed.pdf](https://github.com/maykonmeneghel/maykonmeneghel/files/13810713/Portfolio-2024_compressed.pdf)
+
